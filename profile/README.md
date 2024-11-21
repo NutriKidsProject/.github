@@ -18,7 +18,7 @@ We are a team of seven cohorts from [Program/Academy] 2023. The team was formed 
 | [Name 1]                  | [Bangkit ID 1]  | Machine Learning        | [University Name 1]                        | [GitHub](#) [LinkedIn](#)       |
 | [Name 2]                  | [Bangkit ID 2]  | Machine Learning        | [University Name 2]                        | [GitHub](#) [LinkedIn](#)       |
 | Bintang Rizqia                  | C249B4KX0864  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/bintangrizq) [LinkedIn](#)       |
-| Zidhan Maula Fatih                  | C249B4KY4622  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub]([#](https://github.com/zidhanmf) [LinkedIn](#)       |
+| Zidhan Maula Fatih                  | C249B4KY4622  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/zidhanmf) [LinkedIn](#)       |
 | Cecilia Agnes Vechrisda Manalu                  | A764B4KX0910  | Mobile Development      | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/ceciliaagnes04) [LinkedIn](#)       |
 | [Name 6]                  | [Bangkit ID 6]  | Mobile Development      | [University Name 6]                        | [GitHub](#) [LinkedIn](#)       |
 
