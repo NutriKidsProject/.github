@@ -15,7 +15,7 @@ We are a team of seven cohorts from [Program/Academy] 2023. The team was formed 
 
 | **Name**                  | **Bangkit ID**  | **Learning Path**       | **University**                              | **Social Media**                |
 |---------------------------|-----------------|-------------------------|--------------------------------------------|----------------------------------|
-| [Name 1]                  | [Bangkit ID 1]  | Machine Learning        | [University Name 1]                        | [GitHub](#) [LinkedIn](#)       |
+| Yuga Azka Al Razzak                  | M249B4KY4564  | Machine Learning        | Universitas Langlang Buana                        | [GitHub](https://github.com/YugaZ963) [LinkedIn](https://www.linkedin.com/in/yuga-azka-al-razzak-875970294/)       |
 | [Name 2]                  | [Bangkit ID 2]  | Machine Learning        | [University Name 2]                        | [GitHub](#) [LinkedIn](#)       |
 | Bintang Rizqia                  | C249B4KX0864  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/bintangrizq) [LinkedIn](#)       |
 | Zidhan Maula Fatih                  | C249B4KY4622  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/zidhanmf) [LinkedIn](#)       |
