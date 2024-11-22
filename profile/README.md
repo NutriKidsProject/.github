@@ -30,8 +30,8 @@ We are a team of seven cohorts from Bangkit Academy 2024. The team was formed to
 - **Healthy Recommendations and Tips**: Collection of healthy eating tips for kids.
 
 **Platform:**
-- **Target Platform**: [Android/iOS/Web]
-- **Technologies**: [Machine Learning, Cloud Computing, Mobile Development]
+- **Target Platform**: Android
+- **Technologies**: Machine Learning, Cloud Computing, Mobile Development
 
 **Goal:**
 - to empower parents in monitoring and ensuring their children's nutritional adequacy.
