@@ -16,7 +16,7 @@ We are a team of seven cohorts from [Program/Academy] 2023. The team was formed 
 | **Name**                  | **Bangkit ID**  | **Learning Path**       | **University**                              | **Social Media**                |
 |---------------------------|-----------------|-------------------------|--------------------------------------------|----------------------------------|
 | Yuga Azka Al Razzak                  | M249B4KY4564  | Machine Learning        | Universitas Langlang Buana                        | [GitHub](https://github.com/YugaZ963) [LinkedIn](https://www.linkedin.com/in/yuga-azka-al-razzak-875970294/)       |
-| Hendy Sukandi                  | M764B4KY1766 | Machine Learning        | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/chryn1knw) [LinkedIn](www.linkedin.com/in/hnd72)       |
+| Hendy Sukandi                  | M764B4KY1766 | Machine Learning        | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/chryn1knw) [LinkedIn](httpa://www.linkedin.com/in/hnd72)       |
 | Bintang Rizqia                  | C249B4KX0864  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/bintangrizq) [LinkedIn](#)       |
 | Zidhan Maula Fatih                  | C249B4KY4622  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/zidhanmf27) [LinkedIn](https://linkedin.com/in/zidhanmf)       |
 | Cecilia Agnes Vechrisda Manalu                  | A764B4KX0910  | Mobile Development      | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/ceciliaagnes04) [LinkedIn](#)       |
