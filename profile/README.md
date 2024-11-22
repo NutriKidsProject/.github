@@ -4,8 +4,7 @@
 
 # **NutriKids**
 Capstone Project Team CH2-PS248 
-
-[Brief Description of the Project]  
+  
 _The project is a mobile application that aims to empower parents in monitoring and ensuring their children's nutritional adequacy.._
 
 ---
@@ -35,6 +34,6 @@ We are a team of seven cohorts from Bangkit Academy 2024. The team was formed to
 - **Technologies**: [Machine Learning, Cloud Computing, Mobile Development]
 
 **Goal:**
-- to empower parents in monitoring and ensuring their children's nutritional adequacy.._
+- to empower parents in monitoring and ensuring their children's nutritional adequacy.
 
 ---
