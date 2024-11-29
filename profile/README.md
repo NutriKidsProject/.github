@@ -18,7 +18,7 @@ We are a team of seven cohorts from Bangkit Academy 2024. The team was formed to
 | Hendy Sukandi                  | M764B4KY1766 | Machine Learning        | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/chryn1knw) [LinkedIn](https://www.linkedin.com/in/hnd72)       |
 | Bintang Rizqia                  | C249B4KX0864  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/bintangrizq) [LinkedIn](#)       |
 | Zidhan Maula Fatih                  | C249B4KY4622  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/zidhanmf27) [LinkedIn](https://linkedin.com/in/zidhanmf)       |
-| Cecilia Agnes Vechrisda Manalu                  | A764B4KX0910  | Mobile Development      | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/ceciliaagnes04)(https://www.linkedin.com/in/ceciliaagnes04/)       |
+| Cecilia Agnes Vechrisda Manalu                  | A764B4KX0910  | Mobile Development      | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/ceciliaagnes04)[LinkedIn](https://www.linkedin.com/in/ceciliaagnes04/)       |
 | Ridwan Munawar Shidiq                | A764B4KY3830  | Mobile Development      | Sekolah Tinggi Teknologi Bandung                        | [GitHub](#) [LinkedIn](#)       |
 | Hasbuna Nashara                |M125B4KX1744  | Machine Learning   | Politeknik Manufaktur Bandung | [GitHub](https://github.com/gatitoenak) [LinkedIn](https://www.linkedin.com/in/hasbuna-nashara-01ab1b21a/)
 ---
