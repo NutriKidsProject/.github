@@ -15,12 +15,13 @@ We are a team of seven cohorts from [Program/Academy] 2023. The team was formed 
 
 | **Name**                  | **Bangkit ID**  | **Learning Path**       | **University**                              | **Social Media**                |
 |---------------------------|-----------------|-------------------------|--------------------------------------------|----------------------------------|
-| [Name 1]                  | [Bangkit ID 1]  | Machine Learning        | [University Name 1]                        | [GitHub](#) [LinkedIn](#)       |
-| [Name 2]                  | [Bangkit ID 2]  | Machine Learning        | [University Name 2]                        | [GitHub](#) [LinkedIn](#)       |
-| [Name 3]                  | [Bangkit ID 3]  | Cloud Computing         | [University Name 3]                        | [GitHub](#) [LinkedIn](#)       |
-| [Name 4]                  | [Bangkit ID 4]  | Cloud Computing         | [University Name 4]                        | [GitHub](#) [LinkedIn](#)       |
-| [Name 5]                  | [Bangkit ID 5]  | Mobile Development      | [University Name 5]                        | [GitHub](#) [LinkedIn](#)       |
-| [Name 6]                  | [Bangkit ID 6]  | Mobile Development      | [University Name 6]                        | [GitHub](#) [LinkedIn](#)       |
+| Yuga Azka Al Razzak                  | M249B4KY4564  | Machine Learning        | Universitas Langlang Buana                        | [GitHub](https://github.com/YugaZ963) [LinkedIn](https://www.linkedin.com/in/yuga-azka-al-razzak-875970294/)       |
+| Hendy Sukandi                  | M764B4KY1766 | Machine Learning        | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/chryn1knw) [LinkedIn](https://www.linkedin.com/in/hnd72)       |
+| Bintang Rizqia                  | C249B4KX0864  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/bintangrizq) [LinkedIn](#)       |
+| Zidhan Maula Fatih                  | C249B4KY4622  | Cloud Computing         | Universitas Langlang Buana                        | [GitHub](https://github.com/zidhanmf27) [LinkedIn](https://linkedin.com/in/zidhanmf)       |
+| Cecilia Agnes Vechrisda Manalu                  | A764B4KX0910  | Mobile Development      | Sekolah Tinggi Teknologi Bandung                        | [GitHub](https://github.com/ceciliaagnes04) [LinkedIn](https://linkedin.com/in/ceciliaagnes04)       |
+| Ridwan Munawar Shidiq                | A764B4KY3830  | Mobile Development      | Sekolah Tinggi Teknologi Bandung                        | [GitHub](#) [LinkedIn](#)       |
+| Hasbuna Nashara                |M125B4KX1744  | Machine Learning   | Politeknik Manufaktur Bandung | [GitHub](https://github.com/gatitoenak) [LinkedIn](https://www.linkedin.com/in/hasbuna-nashara-01ab1b21a/)       |
 
 ---
 
